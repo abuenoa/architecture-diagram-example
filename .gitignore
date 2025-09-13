@@ -4,5 +4,4 @@ __pycache__/
 .env
 .idea/
 .vscode/
-*.png
 *.dot
